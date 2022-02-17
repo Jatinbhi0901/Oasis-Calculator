@@ -1,5 +1,5 @@
 # oasis-calculator
-how to run
-open terminal(app.js)
-npm install
-npm start
+how to run <br/>
+open terminal(app.js)<br/>
+npm install<br/>
+npm start<br/>
