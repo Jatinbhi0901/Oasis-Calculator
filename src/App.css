@@ -1,0 +1,60 @@
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+*{
+  font-size: 0.7cm;
+}
+
+body{
+ background-color: #ced6e0;
+ 
+}
+
+.container1{
+  width:28%;
+  height: 15cm;
+  background-image: linear-gradient(to bottom, #050003, #0e060d, #130d15, #16121c, #171723, #191b29, #1a202e, #1b2434, #1f2939, #242d3e, #283244, #2d3749);
+  margin: auto;
+  margin-top: 2.5cm;
+  border-radius: 15px;
+
+}
+button{
+  width: 1.8cm;
+  height: 1.5cm;
+  margin-top: 0.5cm;
+  margin-left: 0.7cm;
+ border-radius: 10px;
+ border: transparent;
+ background-color: #636e72; 
+ color: white;  
+  
+}
+.text{
+  width: 11.2cm;
+  height: 4cm;
+  text-align: right;
+  background-image: linear-gradient(to top, #020a14, #0f161e, #162029, #1e2a34, #25343f);
+  color: white;
+  border: transparent;
+  font-size: 1cm;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.clear{
+  width: 4.4cm;
+  height: 1.5cm;
+  background-color: #00cec9;
+}
+.equals{
+  width: 4.4cm;
+  height: 1.5cm;
+  background-color: #00cec9;
+}
+.sign{
+  background-color: #00cec9;
+}
+.number:hover{
+  background-color: brown;
+}
